@@ -20,6 +20,20 @@ p{
     background-image: linear-gradient(to top, white 50%, black);
 }
 
+.jardin{
+    background-image: radial-gradient(circle at center, rgb(77, 240, 252), pink);
+}
+
+.chien{
+    background-image: repeating-radial-gradient(black ,white 10px);
+}
+
+.chien:hover{
+    background-image: repeating-radial-gradient(white ,black 10px);
+}
+
+
+
 
 
 
